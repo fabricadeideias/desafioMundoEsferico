@@ -4,7 +4,7 @@ precisamos criar um script que baixe as últimas cinco imagens disponibilizadas 
 apod da nasa.  
 Se conseguirmos, além de baixar as imagens, criar uma página para a visualização deste
 conteúdo, seria bem legal.  
-Todos os dias a nasa publica no site:​ ​ https://apod.nasa.gov/apod/astropix.html​ uma imagem
+Todos os dias a nasa publica no site:​ ​ https://apod.nasa.gov/apod/astropix.html ​ uma imagem
 sobre astronomia.
 
 ## Objetivos
